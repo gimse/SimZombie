@@ -1,6 +1,6 @@
 # SimZombie
 
-Just enjoy waching zombies chase after humans with guns.
+Just enjoy waching zombies, chase after humans with guns.
 
 ## Screencapture
 
